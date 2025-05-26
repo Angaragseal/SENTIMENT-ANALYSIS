@@ -87,7 +87,7 @@ This project demonstrates how social media data can be effectively analyzed to u
 
 ---
 
-##Output
+## Output
 
 ![Image](https://github.com/user-attachments/assets/0b0c9f82-e715-4743-bb28-412f42149a44)
 ![Image](https://github.com/user-attachments/assets/9fa66c7e-c68a-4609-ab74-ea159a20153e)
