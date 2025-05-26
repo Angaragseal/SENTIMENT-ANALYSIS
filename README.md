@@ -8,7 +8,7 @@
 **MENTOR**: NEELA SANTOSH
 
  ---
-# Sentiment Analysis on Tweets Dataset
+# Sentiment Analysis on Reviews Dataset
 
 ## Project Overview
 
